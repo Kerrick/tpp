@@ -1,6 +1,6 @@
-#!/usr/bin/env ruby
+#!/usr/bin/env ruby1.8
 
-version_number = "1.3.1"
+version_number = "1.3.2"
 
 # Loads the ncurses-ruby module and imports "Ncurses" into the
 # current namespace. It stops the program if loading the
